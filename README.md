@@ -1,5 +1,5 @@
 # Kaggle
 
-Kaggle Comprtitions 
+Kaggle Competitions 
 
 https://www.kaggle.com/boyuanli
