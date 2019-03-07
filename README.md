@@ -8,5 +8,5 @@ https://www.kaggle.com/boyuanli
 
 https://www.kaggle.com/c/mens-machine-learning-competition-2019
 
-![Mylife](/images/mylife.jpeg)
-Format: ![Alt Text](url)
+![BlueDevils](https://media.giphy.com/media/YXsZJoU07W3QqscY7m/giphy.gif)
+
